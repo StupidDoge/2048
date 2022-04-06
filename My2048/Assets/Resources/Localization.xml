@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key name="small_field">
+		<Translates>
+			<en-us>Small field (3x3)</en-us>
+			<ru>Маленькое поле (3x3)</ru>
+			<ua>Маленьке поле (3x3)</ua>
+		</Translates>
+	</Key>
+	<Key name="regular_field">
+		<Translates>
+			<en-us>Regular field (4x4)</en-us>
+			<ru>Стандартное поле (4x4)</ru>
+			<ua>Стандартне поле (4x4)</ua>
+		</Translates>
+	</Key>
+	<Key name="big_field">
+		<Translates>
+			<en-us>Big field (8x8)</en-us>
+			<ru>Большое поле (8x8)</ru>
+			<ua>Велике поле (8x8)</ua>
+		</Translates>
+	</Key>
+  <Key name="bigger_field">
+		<Translates>
+			<en-us>Bigger field (5x5)</en-us>
+			<ru>Поле побольше (5x5)</ru>
+			<ua>Більше поле (5x5)</ua>
+		</Translates>
+	</Key>
+	<Key name="settings">
+		<Translates>
+			<en-us>Settings</en-us>
+			<ru>Настройки</ru>
+			<ua>Налаштування</ua>
+		</Translates>
+	</Key>
+	<Key name="mute_audio">
+		<Translates>
+			<en-us>Mute audio</en-us>
+			<ru>Отключить звук</ru>
+			<ua>Вимкнути звук</ua>
+		</Translates>
+	</Key>
+	<Key name="language">
+		<Translates>
+			<en-us>Language</en-us>
+			<ru>Язык</ru>
+			<ua>Мова</ua>
+		</Translates>
+	</Key>
+	<Key name="theme">
+		<Translates>
+			<en-us>Theme</en-us>
+			<ru>Тема</ru>
+			<ua>Тема</ua>
+		</Translates>
+	</Key>
+	<Key name="rules">
+		<Translates>
+			<en-us>Rules</en-us>
+			<ru>Правила</ru>
+			<ua>Правила</ua>
+		</Translates>
+	</Key>
+	<Key name="points">
+		<Translates>
+			<en-us>Points</en-us>
+			<ru>Очки</ru>
+			<ua>Точки</ua>
+		</Translates>
+	</Key>
+	<Key name="high_score">
+		<Translates>
+			<en-us>High score</en-us>
+			<ru>Рекорд</ru>
+			<ua>Рекорд</ua>
+		</Translates>
+	</Key>
+	<Key name="go_to_menu">
+		<Translates>
+			<en-us>Go to menu</en-us>
+			<ru>В меню</ru>
+			<ua>До меню</ua>
+		</Translates>
+	</Key>
+  <Key name="restart_game_q">
+    <Translates>
+      <en-us>Restart game?</en-us>
+      <ru>Перезапустить игру?</ru>
+      <ua>Перезапустити гру?</ua>
+    </Translates>
+  </Key>
+  <Key name="yes">
+    <Translates>
+      <en-us>Yes</en-us>
+      <ru>Да</ru>
+      <ua>Так</ua>
+    </Translates>
+  </Key>
+  <Key name="no">
+    <Translates>
+      <en-us>No</en-us>
+      <ru>Нет</ru>
+      <ua>нi</ua>
+    </Translates>
+  </Key>
+  <Key name="game_over">
+    <Translates>
+      <en-us>Game over!</en-us>
+      <ru>Игра окончена!</ru>
+      <ua>Кінець гри!</ua>
+    </Translates>
+  </Key>
+  <Key name="victory">
+    <Translates>
+      <en-us>Victory!</en-us>
+      <ru>Победа!</ru>
+      <ua>Перемога!</ua>
+    </Translates>
+  </Key>
+  <Key name="rules_header">
+    <Translates>
+      <en-us>Rules</en-us>
+      <ru>Правила</ru>
+      <ua>Правила</ua>
+    </Translates>
+  </Key>
+  <Key name="rules_text">
+    <Translates>
+      <en-us>
+				Use swipes to move tiles around the field. Two tiles with the same value are summed up and combined into one new one. Each new move in a random cell on the field appears a tile with a face value of 2 or, much less often, 4. You can cancel one move by pressing the return move button. To win, you need to collect the number 2048, but even after collecting it, the game still continues, so do not deny yourself the pleasure of collecting gigantic numbers and setting incredible records!
+      </en-us>
+      <ru>
+				Используйте свайпы для перемещения плиток по полю. Две плитки с одинаковым номиналом суммируются и объединяются в одну новую. Каждый новый ход в случайной клетке на поле появляется плитка с номиналом 2 или, сильно реже, 4. Вы можете отменить один ход, нажав кнопку возвращения хода. Для победы необходимо собрать число 2048, но даже после его сбора игра всё равно продолжается, так что не отказывайте себе в удовольствии собирать гигантские числа и ставить немыслимые рекорды! 
+      </ru>
+      <ua>
+				Використовуйте свайпи для переміщення плиток по полю. Дві плитки з однаковим номіналом підсумовуються та поєднуються в одну нову. Кожен новий хід у випадковій клітці на полі з'являється плитка з номіналом 2 або, рідше, 4. Ви можете скасувати один хід, натиснувши кнопку повернення ходу. Для перемоги необхідно зібрати число 2048, але навіть після його збору гра все одно продовжується, тому не відмовляйте собі в задоволенні збирати гігантські числа та ставити немислимі рекорди!
+      </ua>
+    </Translates>
+  </Key>
+</Keys>

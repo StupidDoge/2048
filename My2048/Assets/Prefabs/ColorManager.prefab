@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7161037761751969635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7161037761751969634}
+  - component: {fileID: 7161037761751969633}
+  m_Layer: 0
+  m_Name: ColorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7161037761751969634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7161037761751969635}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -247.3576, y: -652.53284, z: 463.503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7161037761751969633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7161037761751969635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6b9f24ee9c0b4439f39409445b8478, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _classicColorsArray:
+  - {r: 0.8039216, g: 0.7529412, b: 0.7058824, a: 1}
+  - {r: 0.93333334, g: 0.89411765, b: 0.85490197, a: 1}
+  - {r: 0.92941177, g: 0.8784314, b: 0.78431374, a: 1}
+  - {r: 0.9490196, g: 0.69411767, b: 0.4745098, a: 1}
+  - {r: 0.9607843, g: 0.58431375, b: 0.3882353, a: 1}
+  - {r: 0.9647059, g: 0.4862745, b: 0.37254903, a: 1}
+  - {r: 0.9647059, g: 0.3647059, b: 0.23137255, a: 1}
+  - {r: 0.92941177, g: 0.80784315, b: 0.44313726, a: 1}
+  - {r: 0.92941177, g: 0.8, b: 0.3882353, a: 1}
+  - {r: 0.9254902, g: 0.78039217, b: 0.3529412, a: 1}
+  - {r: 0.9254902, g: 0.76862746, b: 0.29803923, a: 1}
+  - {r: 0.9254902, g: 0.75686276, b: 0.2509804, a: 1}
+  - {r: 0.99607843, g: 0.23921569, b: 0.24313726, a: 1}
+  - {r: 1, g: 0.1254902, b: 0.12941177, a: 1}
+  - {r: 1, g: 0.1254902, b: 0.12941177, a: 1}
+  - {r: 0.43137255, g: 0.7058824, b: 0.84313726, a: 1}
+  _classicBackgroundColor: {r: 0.93333334, g: 0.89411765, b: 0.85490197, a: 1}
+  _classicButtonColor: {r: 0.73333335, g: 0.6784314, b: 0.627451, a: 1}
+  _classicDarkTextColor: {r: 0.46666667, g: 0.43137255, b: 0.39607844, a: 1}
+  _classicLightTextColor: {r: 1, g: 1, b: 1, a: 1}
+  _classicLightImageColor: {r: 1, g: 1, b: 1, a: 1}
+  _darkColorsArray:
+  - {r: 0.16353685, g: 0.17650299, b: 0.1981132, a: 1}
+  - {r: 0.18431373, g: 0.22745098, b: 0.27450982, a: 1}
+  - {r: 0.12156863, g: 0.16078432, b: 0.2, a: 1}
+  - {r: 0.15445887, g: 0.26424128, b: 0.3679245, a: 1}
+  - {r: 0.32378072, g: 0.40106606, b: 0.6415094, a: 1}
+  - {r: 0.28627452, g: 0.35686275, b: 0.5764706, a: 1}
+  - {r: 0.09019608, g: 0.29803923, b: 0.29411766, a: 1}
+  - {r: 0.07725169, g: 0.5283019, b: 0.48611733, a: 1}
+  - {r: 0.04605731, g: 0.6509434, b: 0.5937652, a: 1}
+  - {r: 0.010679938, g: 0.754717, b: 0.68438524, a: 1}
+  - {r: 0.3137255, g: 0.27450982, b: 0.25490198, a: 1}
+  - {r: 0.5471698, g: 0.4028042, b: 0.26584196, a: 1}
+  - {r: 0.7169812, g: 0.5428089, b: 0.36863655, a: 1}
+  - {r: 0.7176471, g: 0.5882353, b: 0.4627451, a: 1}
+  - {r: 0.46226418, g: 0.12693103, b: 0.08067818, a: 1}
+  - {r: 0.5566038, g: 0.102394104, b: 0.13587627, a: 1}
+  _darkBackgroundColor: {r: 0.11372549, g: 0.1254902, b: 0.14509805, a: 1}
+  _darkButtonColor: {r: 0.2280616, g: 0.30742705, b: 0.38679248, a: 1}
+  _darkDarkTextColor: {r: 1, g: 1, b: 1, a: 1}
+  _darkLightTextColor: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 1}
+  _darkLightImageColor: {r: 1, g: 1, b: 1, a: 1}
+  _ukraineColorsArray:
+  - {r: 0.09812213, g: 0.24442908, b: 0.46226418, a: 1}
+  - {r: 0.6127626, g: 0.708189, b: 0.8490566, a: 1}
+  - {r: 0.5254902, g: 0.7137255, b: 0.98039216, a: 1}
+  - {r: 0.2784314, g: 0.5882353, b: 0.8, a: 1}
+  - {r: 0.2901961, g: 0.56078434, b: 0.9372549, a: 1}
+  - {r: 0.3137255, g: 0.5647059, b: 0.7529412, a: 1}
+  - {r: 0.23137255, g: 0.53333336, b: 0.89411765, a: 1}
+  - {r: 0.43596473, g: 0.6267685, b: 0.9150943, a: 1}
+  - {r: 0.21537916, g: 0.46514553, b: 0.8301887, a: 1}
+  - {r: 0.011764706, g: 0.6901961, b: 0.9098039, a: 1}
+  - {r: 0.9372549, g: 0.8745098, b: 0.49411765, a: 1}
+  - {r: 0.9137255, g: 0.8117647, b: 0.23921569, a: 1}
+  - {r: 0.9647059, g: 0.79607844, b: 0.18039216, a: 1}
+  - {r: 0.93333334, g: 0.8352941, b: 0.3019608, a: 1}
+  - {r: 0.8018868, g: 0.7255, b: 0.12482201, a: 1}
+  - {r: 0.6698113, g: 0.6262538, b: 0.26223743, a: 1}
+  _ukraineBackgroundColor: {r: 0.93333334, g: 0.83137256, b: 0.29411766, a: 1}
+  _ukraineButtonColor: {r: 0.07058824, g: 0.36862746, b: 0.7764706, a: 1}
+  _ukraineDarkTextColor: {r: 1, g: 1, b: 1, a: 1}
+  _ukraineLightTextColor: {r: 1, g: 1, b: 1, a: 1}
+  _ukraineLightImageColor: {r: 1, g: 1, b: 1, a: 1}
